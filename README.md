@@ -2,9 +2,9 @@
 
 Using Marketstack.com API, built a Flutter app that displays stock market reports. I only used the end-of-day data API as it is available on the free plans.
 
-## Marketstack API
+## USED API
 
-[Marketstack](https://marketstack.com/) is a free, JSON-based REST API for real-time, intraday and historical stock market data, supporting 170,000+ stock ticker symbols from 72+ worldwide stock exchanges. The API was built upon powerful apilayer cloud infrastructure, handling any volume with ease - from a few API requests per day all the way to millions of calls per minute, they've got you covered.
+[Marketstack](https://marketstack.com/) is a free, JSON-based REST API for real-time, intraday and historical stock market data.
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ Using Marketstack.com API, built a Flutter app that displays stock market report
   ```
 ## Steps
 
- git clone https://github.com/Engr-Owais/Flutter-Stock-MarketStack
+ git clone https://github.com/Engr-Owais/Flutter-Stocks-App.git
  ```  
  - Run the app with Android Studio or Visual Studio. Or the command line.
  
@@ -31,8 +31,11 @@ Using Marketstack.com API, built a Flutter app that displays stock market report
  ```
 ## API Endpoints
 
-- End-of-Day Data
+- eod => End-of-Day Data
 
 
 ## Screenshots
+
+<img src="https://github.com/Engr-Owais/Flutter-Stocks-App/blob/main/Screenshots/Screenshot_1667402763.png?raw=true" height="400em" />
+<img src="https://github.com/Engr-Owais/Flutter-Stocks-App/blob/main/Screenshots/Screenshot_1667402796.png?raw=true" height="400em" />
 
